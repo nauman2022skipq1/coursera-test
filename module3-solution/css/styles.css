@@ -1,0 +1,39 @@
+#card {
+    margin-top: 10px;
+    background-color: #999999;
+    color: black;
+    border-radius: 10px;
+}
+
+#card-title {
+    font-weight: bold;
+}
+
+#navbar {
+    background-color: #999999;
+    border: 3px solid black;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+#title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+#container-title {
+    font-weight: bold;
+}
+
+#navbar .bar {
+    background-color: black;
+}
+
+#navbar .btn-custom{
+    border: 1px solid black;
+}
+
+#navbar .menu-item{
+    color: black;
+}
